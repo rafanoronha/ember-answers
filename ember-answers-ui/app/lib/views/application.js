@@ -1,5 +1,5 @@
-require('ember-skeleton/core');
+require('ember-answers-ui/core');
 
 App.ApplicationView = Ember.View.extend({
-  templateName: 'ember-skeleton/~templates/application'
+  templateName: 'ember-answers-ui/~templates/application'
 });

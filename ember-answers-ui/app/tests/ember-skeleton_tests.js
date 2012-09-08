@@ -1,6 +1,6 @@
-require('ember-skeleton/core');
+require('ember-answers-ui/core');
 
-module("ember-skeleton");
+module("ember-answers-ui");
 
 test("App is defined", function () {
   ok(typeof App !== 'undefined', "App is undefined");

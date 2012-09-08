@@ -1,4 +1,4 @@
-APPNAME = 'ember-skeleton'
+APPNAME = 'ember-answers-ui'
 
 require 'json'
 require 'rake-pipeline-web-filters'

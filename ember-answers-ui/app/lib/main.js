@@ -1,7 +1,7 @@
-require('ember-skeleton/core');
-require('ember-skeleton/store');
-require('ember-skeleton/router');
-require('ember-skeleton/controllers');
-require('ember-skeleton/views');
+require('ember-answers-ui/core');
+require('ember-answers-ui/store');
+require('ember-answers-ui/router');
+require('ember-answers-ui/controllers');
+require('ember-answers-ui/views');
 
 App.initialize();

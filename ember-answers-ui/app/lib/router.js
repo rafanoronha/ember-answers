@@ -1,4 +1,4 @@
-require('ember-skeleton/core');
+require('ember-answers-ui/core');
 
 App.Router = Ember.Router.extend({
   enableLogging: true,

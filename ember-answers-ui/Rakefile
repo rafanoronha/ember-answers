@@ -1,4 +1,4 @@
-APPNAME = 'ember-skeleton'
+APPNAME = 'ember-answers-ui'
 
 require 'colored'
 require 'rake-pipeline'

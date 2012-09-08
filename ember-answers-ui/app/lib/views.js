@@ -1,1 +1,1 @@
-require('ember-skeleton/views/application');
+require('ember-answers-ui/views/application');

@@ -1,0 +1,3 @@
+== Ember-answers
+
+Giving Ember.js a shot.
